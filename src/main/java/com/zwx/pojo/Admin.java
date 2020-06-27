@@ -8,6 +8,7 @@ import java.util.List;
 @Entity
 @Table(name="t_admin")
 public class Admin {
+    //hao
     @Id
     @GeneratedValue
     private Long id;
