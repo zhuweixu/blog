@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="项目">
+    <output-path>E:/</output-path>
+    <root id="archive" name="项目.war" />
+  </artifact>
+</component>
